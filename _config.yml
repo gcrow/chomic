@@ -13,19 +13,19 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Crows's Roost
+title: Crow's Roost
 email: website@chomic.net
 description: >- # this means to ignore newlines until "baseurl:"
  Thoughts, prior work and mutterings on the subjects of info/cyber security, neurodiversity, 
  society, tech and some bits around the inner workings of our minds. 
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://gabe.chomic.net" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: infoseccrow
 github_username:  gcrow
 
 # Build settings
 markdown: kramdown
-theme: minima
+remote_theme: "mmistakes/minimal-mistakes@4.21.0"
 plugins:
   - jekyll-feed
 
