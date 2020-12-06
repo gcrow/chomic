@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "air" # "aqua", "contrast", "dark", "dirt", "neon", "
 
 # Site Settings
 locale                   : "en-GB"
-title                    : "The Resilent Crow"
+title                    : "The Resilient Crow"
 title_separator          : "-"
 subtitle                 : "Commentator and critic" # site tagline that appears below site title in masthead
 name                     : "Gabe"
