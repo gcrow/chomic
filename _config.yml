@@ -12,13 +12,13 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "air" # "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-GB"
 title                    : "The Resilent Crow"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "Commentator and critic" # site tagline that appears below site title in masthead
 name                     : "Gabe"
 description              : "Thoughts, prior work and mutterings on the subjects of info/cyber security, neurodiversity, society, tech and some bits around the inner workings of our minds."
 url                      : "https://www.chomic.net"
