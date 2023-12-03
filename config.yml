@@ -47,7 +47,7 @@ params:
     enabled: true # needs to be explicitly set
     title: Divergent Crow
     subtitle: "Profile and thoughts of Gabe"
-    imageUrl: "https://pub-e8167153c50c47cbb7481e01ae5f877b.r2.dev/crop_75th.png"
+    imageUrl: "gabe_75th_cropped.png"
     imageWidth: 120
     imageHeight: 120
     imageTitle: my image
