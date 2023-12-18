@@ -1,6 +1,7 @@
 baseURL: http://chomic.net/
 languageCode: en-gb
 title: divergent crow
+author: gabe chomic
 theme: "PaperMod"
 
 enableRobotsTXT: true
