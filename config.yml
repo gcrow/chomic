@@ -1,6 +1,6 @@
 baseURL: http://chomic.net/
 languageCode: en-gb
-title: gabe chomic
+title: divergent crow
 theme: "PaperMod"
 
 enableRobotsTXT: true
@@ -46,7 +46,7 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: Divergent Crow
-    subtitle: "Profile and thoughts of Gabe"
+    subtitle: "Profile and thoughts of Gabe Chomic"
     imageUrl: "gabe_75th_cropped.png"
     imageWidth: 120
     imageHeight: 120
@@ -57,7 +57,7 @@ params:
       - name: CV
         url: vitae
       - name: About
-        url: abouts
+        url: about
 
   socialIcons:
     - name: bluesky
