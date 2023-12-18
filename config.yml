@@ -18,7 +18,7 @@ params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Divergent Crow
   description: "Profile and thoughts of Gabe Chomic"
-  keywords: [Blog, Portfolio, PaperMod, Neurodivergence, Security, infosec]
+  keywords: [Blog, Portfolio, PaperMod, Neurodivergence, Security, infosec, Neurodiversity, Cybersecurity, Cyber, Sociotechnical, Humanity]
   author: gabe
   # author: ["Me", "You"] # multiple authors
 #  images: ["<link or path of image for opengraph, twitter-cards>"]
