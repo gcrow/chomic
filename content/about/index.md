@@ -5,7 +5,7 @@ description: here, we describe the site and it's author
 cover:
     image: "plant_orch.jpg"
     alt: "A conductor directing an orchestra to play to a room full of house plants and shrubberies"
-    relative: true # To use relative path for cover image, used in hugo Page-bundles
+    relative: false # To use relative path for cover image, used in hugo Page-bundles
 ---
 
 ## About...
