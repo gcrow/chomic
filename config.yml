@@ -63,14 +63,12 @@ params:
   socialIcons:
     - name: bluesky
       url: "https://bsky.app/profile/infoseccrow.bsky.social"
+    - name: github
+      url: "https://github.com/gcrow"
     - name: mastodon
       url: "https://chaos.social/@infoseccrow"
     - name: linkedin
       url: "https://www.linkedin.com/in/gchomic/"
-    - name: twitter
-      url: "https://twitter.com/infoseccrow"
-    - name: github
-      url: "https://github.com/gcrow"
     - name: spotify
       url: "https://open.spotify.com/user/tyranny12"
 
